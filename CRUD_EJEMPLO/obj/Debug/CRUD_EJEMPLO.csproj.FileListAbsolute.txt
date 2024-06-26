@@ -1,0 +1,10 @@
+E:\PC\Documents\Cursos_Aparte\C#\CRUD_EJEMPLO\CRUD_EJEMPLO\bin\Debug\CRUD_EJEMPLO.exe.config
+E:\PC\Documents\Cursos_Aparte\C#\CRUD_EJEMPLO\CRUD_EJEMPLO\bin\Debug\CRUD_EJEMPLO.exe
+E:\PC\Documents\Cursos_Aparte\C#\CRUD_EJEMPLO\CRUD_EJEMPLO\bin\Debug\CRUD_EJEMPLO.pdb
+E:\PC\Documents\Cursos_Aparte\C#\CRUD_EJEMPLO\CRUD_EJEMPLO\obj\Debug\CRUD_EJEMPLO.csproj.AssemblyReference.cache
+E:\PC\Documents\Cursos_Aparte\C#\CRUD_EJEMPLO\CRUD_EJEMPLO\obj\Debug\CRUD_EJEMPLO.Form1.resources
+E:\PC\Documents\Cursos_Aparte\C#\CRUD_EJEMPLO\CRUD_EJEMPLO\obj\Debug\CRUD_EJEMPLO.Properties.Resources.resources
+E:\PC\Documents\Cursos_Aparte\C#\CRUD_EJEMPLO\CRUD_EJEMPLO\obj\Debug\CRUD_EJEMPLO.csproj.GenerateResource.cache
+E:\PC\Documents\Cursos_Aparte\C#\CRUD_EJEMPLO\CRUD_EJEMPLO\obj\Debug\CRUD_EJEMPLO.csproj.CoreCompileInputs.cache
+E:\PC\Documents\Cursos_Aparte\C#\CRUD_EJEMPLO\CRUD_EJEMPLO\obj\Debug\CRUD_EJEMPLO.exe
+E:\PC\Documents\Cursos_Aparte\C#\CRUD_EJEMPLO\CRUD_EJEMPLO\obj\Debug\CRUD_EJEMPLO.pdb
